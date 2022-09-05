@@ -3,8 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-
+body {
+    font-family: 'open sans';
+}
+.contenedor {
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
 
 /*
 
